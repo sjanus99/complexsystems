@@ -1,0 +1,15 @@
+	Alice0 -- Bob1 [label = 0];
+	Alice0 -- Carl2 [label = 0];
+	Alice0 -- David3 [label = 5];
+	Alice0 -- Ernst4 [label = 0];
+	Alice0 -- Frank5 [label = 0];
+	Bob1 -- Gail6 [label = 0];
+	Gail6 -- Henry7 [label = 0];
+	Henry7 -- Jen9 [label = 8];
+	Gail6 -- Jen9 [label = 0];
+	Henry7 -- Irene8 [label = 0];
+	Gail6 -- Irene8 [label = 0];
+	Irene8 -- Jen9 [label = 0];
+	Ernst4 -- Frank5 [label = 0];
+	Carl2 -- David3 [label = 0];
+	Carl2 -- Frank5 [label = 0];
