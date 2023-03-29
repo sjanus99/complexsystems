@@ -1,3 +1,4 @@
+graph newGraph {
 	Alice0 -- Bob1 [label = 0];
 	Alice0 -- Carl2 [label = 0];
 	Alice0 -- David3 [label = 5];
@@ -13,3 +14,4 @@
 	Ernst4 -- Frank5 [label = 0];
 	Carl2 -- David3 [label = 0];
 	Carl2 -- Frank5 [label = 0];
+}
